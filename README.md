@@ -1,7 +1,7 @@
 ﻿# AIP Scanner Configuration Module (AIPScannerConfig)
-## I never got credit from Dave Goldman, but this was my idea! This was a 14 month old DEAD project by Microsoft. I can prove that and it is sad I never got any credit towards the success of this project when Dave used my personal computers to test this code. I gave up hours of my life for this....yet not one shred of credit! ##
+## I worked with Dave Goldman, this was my idea! This was a 14 month old DEAD project by Microsoft. Dave and I used my personal computers to test this code. We gave up hours of our life for this ##
 
-<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Book" style="height: 40px !important;width: 145px !important;" ></a>
 
 ## Before you start
 
